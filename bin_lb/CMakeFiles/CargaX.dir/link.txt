@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCargaX.a CMakeFiles/CargaX.dir/CargaX.cxx.o
+/usr/bin/ranlib libCargaX.a

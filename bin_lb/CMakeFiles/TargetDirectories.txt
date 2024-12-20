@@ -1,0 +1,6 @@
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/rebuild_cache.dir
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/edit_cache.dir
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/get_load_balancing.dir
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/CargaY.dir
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/CargaX.dir
+/home/castro/NHHySEA_202410/bin_lb/CMakeFiles/netcdf.dir

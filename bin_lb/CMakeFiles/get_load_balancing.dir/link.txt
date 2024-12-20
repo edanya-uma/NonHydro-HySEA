@@ -1,0 +1,1 @@
+/soft/centos7/gcc/11.2.0/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/get_load_balancing.dir/ShallowWater.cxx.o -o get_load_balancing  libnetcdf.a libCargaX.a libCargaY.a -lnetcdf 

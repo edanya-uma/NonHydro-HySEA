@@ -23,7 +23,7 @@ NetCDF
 
 ## License
 
-The core version of NonHydro-HySEA is distributed under GNU GENERAL PUBLIC LICENSE.
+The core version of NonHydro-HySEA is distributed under CC BY-NC-ND 4.0.
 
 
 ## Links
